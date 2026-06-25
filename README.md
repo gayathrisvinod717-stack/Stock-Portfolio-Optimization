@@ -24,5 +24,8 @@ The program evaluates possible stock combinations and selects the portfolio with
 See Output.jpg for sample results.
 
 ## Time Complexity
-
 O(2^n) - Generates all possible stock combinations.
+
+## Author
+Gayathri S Vinod
+B.Tech Artificial Intelligence and Data Science
